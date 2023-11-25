@@ -1,0 +1,2 @@
+# Qt_CMake_Win
+在windows下使用lclion里面的Cmake的简单修改，支持直接选择库
